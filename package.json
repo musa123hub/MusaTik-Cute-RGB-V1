@@ -1,0 +1,26 @@
+{
+  "name": "musatik-cute-rgb-v1",
+  "version": "1.0.0",
+  "description": "MusaTik Cute RGB V1 - TikTok link processing website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "musatik",
+    "tiktok",
+    "downloader",
+    "rgb",
+    "nodejs",
+    "express"
+  ],
+  "author": "Musa",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
